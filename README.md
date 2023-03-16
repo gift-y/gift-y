@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jael Gifty
 - 👀 I’m interested in web design and development 
 - 🌱 I’m currently learning data analytics 
-- 💞️ I’m looking forward to make the most collabs 
+- 💞️ I’m looking forward to making the most collabs 
 - 📫 Reach me on jaelgifty@gmail.com
 
 <!---
