@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jael Gifty
 - 👀 I’m interested in web design and development 
-- 🌱 I’m currently learning data analytics 
+- 🌱 I’m currently learning CS in KNUST
 - 💞️ I’m looking forward to making the most collabs 
 - 📫 Reach me on jaelgifty@gmail.com
 
